@@ -23,5 +23,4 @@ It contains only numerical input variables which are the result of a PCA transfo
 
 Given the class imbalance ratio, we recommend measuring the accuracy using the Area Under the Precision-Recall Curve (AUPRC). Confusion matrix accuracy is not meaningful for unbalanced classification.
 
-## Link to Jupyter Notebook in Repository
-[Notebook](https://github.com/radadiyamohit81/Fraud-Detection-on-Credit-Card-Dataset/blob/master/Credit%20card%20Fraud%20Detection.ipynb)
+
